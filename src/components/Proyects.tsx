@@ -27,7 +27,7 @@ const Projects: FC = () => {
                     </div>
                     <div className="w-full h-full flex flex-col justify-between bg-white border border-gray-200 rounded-lg shadow p-2 lg:p-3">
                         <div className="">
-                            <img className="rounded-lg" src="../../public/proyecto-intranet.png" />
+                            <img className="rounded-lg" src="/proyecto-intranet.png" />
                         </div>
                         <div className="px-3 pt-3">
                             <div className="flex items-center justify-between">
